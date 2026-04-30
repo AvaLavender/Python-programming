@@ -23,13 +23,6 @@ if y == x :
     print('Yay, you are correct!')
 
 
- git config --global user.name "AvaLavender"
-$ git config --global user.email aavanib130313@gmail.com
-
-
-
-
-
     
 
          
