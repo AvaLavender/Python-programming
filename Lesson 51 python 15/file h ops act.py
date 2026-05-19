@@ -71,4 +71,3 @@ for line in isf:
 
 isf.close()
 of.close()
-    
